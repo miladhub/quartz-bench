@@ -159,8 +159,6 @@ To run against PostgreSQL,
 
 # References
 
-Quartz
-
 * <https://github.com/michaelklishin/quartz-mongodb>
 * <https://github.com/quartz-scheduler/quartz/blob/a5c4d27e963f51097f9b2777489d310a88897ca4/examples/src/main/java/org/quartz/examples/example13/ClusterExample.java#L35>
 * <https://github.com/michaelklishin/quartz-mongodb/issues/208>
